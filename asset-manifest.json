@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://dashingshree6.github.io/csb-jmdct/static/css/main.82220848.chunk.css",
+    "main.js": "https://dashingshree6.github.io/csb-jmdct/static/js/main.2315863b.chunk.js",
+    "main.js.map": "https://dashingshree6.github.io/csb-jmdct/static/js/main.2315863b.chunk.js.map",
+    "runtime-main.js": "https://dashingshree6.github.io/csb-jmdct/static/js/runtime-main.97d65b03.js",
+    "runtime-main.js.map": "https://dashingshree6.github.io/csb-jmdct/static/js/runtime-main.97d65b03.js.map",
+    "static/css/2.1fc56090.chunk.css": "https://dashingshree6.github.io/csb-jmdct/static/css/2.1fc56090.chunk.css",
+    "static/js/2.c7c2b9ac.chunk.js": "https://dashingshree6.github.io/csb-jmdct/static/js/2.c7c2b9ac.chunk.js",
+    "static/js/2.c7c2b9ac.chunk.js.map": "https://dashingshree6.github.io/csb-jmdct/static/js/2.c7c2b9ac.chunk.js.map",
+    "index.html": "https://dashingshree6.github.io/csb-jmdct/index.html",
+    "static/css/2.1fc56090.chunk.css.map": "https://dashingshree6.github.io/csb-jmdct/static/css/2.1fc56090.chunk.css.map",
+    "static/css/main.82220848.chunk.css.map": "https://dashingshree6.github.io/csb-jmdct/static/css/main.82220848.chunk.css.map",
+    "static/js/2.c7c2b9ac.chunk.js.LICENSE.txt": "https://dashingshree6.github.io/csb-jmdct/static/js/2.c7c2b9ac.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "https://dashingshree6.github.io/csb-jmdct/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97d65b03.js",
+    "static/css/2.1fc56090.chunk.css",
+    "static/js/2.c7c2b9ac.chunk.js",
+    "static/css/main.82220848.chunk.css",
+    "static/js/main.2315863b.chunk.js"
+  ]
+}
