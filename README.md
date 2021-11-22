@@ -2,20 +2,20 @@
 
 ## Dashboard Page
 
-![DashboardPage](../master/mvp-images/dashboard)
+![DashboardPage](../gh-pages/mvp-images/dashboard)
 
 ## Home Page
 
-![HomePage](../master/mvp-images/tHome)
+![HomePage](../gh-pages/mvp-images/tHome)
 
 ## Profile Page
 
-![ProfilePage](../master/mvp-images/profile)
+![ProfilePage](../gh-pages/mvp-images/profile)
 
 ## Assignments Page
 
-![AssignmentsPage](../master/mvp-images/tAss)
+![AssignmentsPage](../gh-pages/mvp-images/tAss)
 
 ## Quiz Page
 
-![QuizPage](../master/mvp-images/tQuiz)
+![QuizPage](../gh-pages/mvp-images/tQuiz)
