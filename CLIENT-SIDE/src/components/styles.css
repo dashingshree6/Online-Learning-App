@@ -1,0 +1,40 @@
+html,
+body {
+  padding: 0.5em;
+  background: white;
+}
+.app {
+  position: relative;
+  background: rgb(241, 240, 240);
+  padding: 0.5em;
+  padding-bottom: 0;
+}
+
+.panel1 {
+  width: 30vh;
+  padding-left: 1em;
+}
+
+.footer {
+  padding: 20px;
+  text-align: left;
+  right: 0px;
+  margin-bottom: 0px;
+  left: 0px;
+  color: antiquewhite;
+  background: rgb(247, 89, 89);
+}
+
+.navbar {
+  background: rgb(243, 87, 87);
+}
+
+.panel3 {
+  background-color: rgb(228, 227, 227);
+
+  border: 1px solid rgb(194, 193, 193);
+}
+
+.dashboard {
+  padding-left: 1em;
+}
